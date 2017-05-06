@@ -16,6 +16,6 @@
 #define SERVICE     "4445"
 #define PORT         4445
 
-void reverse_tcp(const arsine_h *arsine);
-void arsine_init(arsine_h *arsine);
+void reverse_tcp(const arsine_t *arsine);
+void arsine_init(arsine_t *arsine);
 #endif
