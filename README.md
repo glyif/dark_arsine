@@ -4,6 +4,8 @@
 ## Author: Bobby Yang (Batch 2)
 
 ## Build Status
+Master: [![Build Status](https://travis-ci.org/glyif/dark_arsine.svg?branch=master)](https://travis-ci.org/glyif/dark_arsine)
+
 
 ## Synopsis
 Dark Arsine is a reverse shell program.
